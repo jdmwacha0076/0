@@ -23,7 +23,7 @@ Python
 
 GitHub Pages
 
-License
+License:
 The content of this website is licensed under the MIT License
 
 ### Contact
