@@ -14,9 +14,15 @@ If you have any feedback or suggestions for the website, please feel free to ope
 
 ### Technologies
 HTML
+
 CSS
+
 JavaScript
+
+Python 
+
 GitHub Pages
+
 License
 The content of this website is licensed under the MIT License
 
